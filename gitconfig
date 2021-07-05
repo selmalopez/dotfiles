@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = selma-lopez@hotmail.fr
+	name = Selma Lopez
